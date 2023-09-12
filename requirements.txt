@@ -6,3 +6,4 @@ marshmallow
 python-dotenv
 Flask-Migrate
 gunicorn
+pyscopg2
