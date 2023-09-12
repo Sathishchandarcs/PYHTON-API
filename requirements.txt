@@ -4,5 +4,5 @@ Flask-SQLAlchemy
 passlib
 marshmallow
 python-dotenv
-gunicorn
 Flask-Migrate
+gunicorn
